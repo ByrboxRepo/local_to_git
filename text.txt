@@ -1,0 +1,2 @@
+Bueno esta es otra prueba
+si parece que lo mas recomendado es iniciar el proyecto en Git
